@@ -1,0 +1,10 @@
+# ignore the .xml, .yml, and .json files in each of the folders
+/TMC-Java-Programming-2/mooc-java-programming-ii/*/*[.yml|.xml|.json]
+
+# ignore specific target folders
+/TMC-Java-Programming-2/mooc-java-programming-ii/*/target/generated-sources
+/TMC-Java-Programming-2/mooc-java-programming-ii/*/target/generated-test-sources
+/TMC-Java-Programming-2/mooc-java-programming-ii/*/target/maven-status
+
+# ignore specific target text files
+/TMC-Java-Programming-1/mooc-java-programming-i/*/target/std*.txt
